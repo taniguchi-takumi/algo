@@ -1,8 +1,8 @@
-�e�X�g�A�b�v���[�h�B����쐬���L�ɂ���\������
+﻿テストアップロード。今後作成日記にする可能性あり
 
-git status �Ŋm�F
-git add �t�@�C�����@�Œǉ�
-git add .�őO�ǉ������t�@�C���̃t�H���_�̒��g�S�Ă�ǉ�����
+git status で確認
+git add ファイル名　で追加
+git add .で前追加したファイルのフォルダの中身全てを追加する
 
-10/12�i���j
-����moodle���O�C���ł����B��o�֘A��؏o���Ȃ��̂ō����Ă܂�
+10/12（月）
+未だmoodleログインできず。提出関連一切出せないので困ってます
