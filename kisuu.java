@@ -1,6 +1,6 @@
 package kissuu;
 import java.util.Scanner;//キーボードからの読み取りが組み込まれる
-class kisuu {
+class Kisuu {
 		static int cardConvR(int x, int r, char[] d){//基数変換
 				int digits = 0; //変換後の桁数
 				String dchar = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -46,5 +46,3 @@ class kisuu {
 				}while(retry == 1);
 			}
 		}
-
-
